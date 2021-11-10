@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HackerWe.Logic/1.0.0": {
+        "dependencies": {
+          "HackerWe.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HackerWe.Logic.dll": {}
+        }
+      },
+      "HackerWe.Entities/1.0.0": {
+        "runtime": {
+          "HackerWe.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HackerWe.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HackerWe.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZdRQ4SKUcy9agOMLUadpXuLJSDFTMQU7cSW7tVHVwwZktbeecwjv4pI+KBWvw+JydHhkqwpvHLYHLrdX3g3oNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tkhbu\\Desktop\\HackerWe-master\\HackerWe.Entities\\HackerWe.Entities.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\tkhbu\\Desktop\\HackerWe-master\\HackerWe.Entities\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}
